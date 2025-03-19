@@ -19,7 +19,10 @@ Me chamo Gustavo de Paula, tenho 18 anos e sou natural do Espírito Santo. Concl
   <img align ="center" alt="SQLITE" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
   <img align ="center" alt="Html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img align ="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-<div> 
+<div><br> 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ogygu&layout=donut-vertical)](https://github.com/ogygu/github-readme-stats)
+
 
 ### Contato
 - Gmail: gustavobonjardim06@gmail.com
