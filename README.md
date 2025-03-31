@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Front-End`**
 
-Me chamo Gustavo de Paula, tenho 18 anos e sou natural do Espírito Santo. Concluí o ensino médio, faço técnico em informática no IFES. Atualmente e estou cursando Sistemas de Informação na Faculdade UCL. Sou apaixonada por tecnologia desde 8 anos de idade, me insteressei por tecnologia quando fiz um pequeno site em html no bloco de notas do computador. 
+Me chamo Gustavo de Paula, tenho 18 anos e sou natural do Espírito Santo. Concluí o ensino médio, faço técnico em informática no IFES. Atualmente e estou cursando Sistemas de Informação na Faculdade UCL. Sou apaixonado por tecnologia desde 8 anos de idade, me insteressei por tecnologia quando fiz um pequeno site em html no bloco de notas do computador. 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavobonjardim/) [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gubonjardim/)
 
